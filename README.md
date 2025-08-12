@@ -68,7 +68,7 @@ En este proyecto, se recopilan, procesan y analizan datos relacionados con el co
 ## Cómo Ejecutar el Proyecto
 
 1. Clonar este repositorio.
-2. Abrir el notebook en Google Colab o en tu entorno local de Python.
+2. Abrir el notebook en Google Colab o en tu entorno local de Python, ya que gráficos con Plotly no se visualizan en GitHub.
 3. Ejecutar las celdas en orden para realizar la extracción, transformación y análisis.
 4. Revisar el informe final con las conclusiones y recomendaciones.
 
